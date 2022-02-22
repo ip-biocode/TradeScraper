@@ -2,7 +2,6 @@
 """
 Goods Trade Data: HS6 As Reported
 In Young Park
-Last updated: December 21, 2016
 """
 
 import os
