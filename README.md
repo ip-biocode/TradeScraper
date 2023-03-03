@@ -1,5 +1,3 @@
-# DSSG Code
-
 The Python code does the following:
 1. Uses bulk API to scrape international goods trade data from UN Comtrade (https://comtrade.un.org/).
 2. Cleans and matches country names with official international country codes.
