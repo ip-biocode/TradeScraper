@@ -8,4 +8,4 @@ The getHS6.py script implements the following:
 3. Merges with international service trade data.
 4. Creates one large dataset containing all of world's bilateral trade in goods and services, 2000-2014.
 
-*Note: Check frequently API updates at UN Comtrade. You may be able to avoid unnecessary coding!
+*Note*: Check frequently API updates at UN Comtrade. You may be able to avoid unnecessary coding!
