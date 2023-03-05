@@ -1,4 +1,4 @@
-# GranularTradeScraper
+# TradeScraper
 
 This repo is for those interested in analyzing bilateral _goods_ trade data for all countries recognized by the United Nations and for all goods under the Harmonized System. Note that alternative resources are available for trade data download, though obviously there will be constraints specific to each dataset. If you are interested in U.S. bilateral trade *only*, see Peter Schott's website where you can directly download csv files (the site is frequently updated: https://faculty.som.yale.edu/peterschott/international-trade-data/).
 
